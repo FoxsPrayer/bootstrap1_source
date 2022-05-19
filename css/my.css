@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* .col-md-1{
+            border: 1px solid red;
+        }
+        .col-md-4{
+            border: 1px solid red;
+        }
+        .col-md-6{
+            border: 1px solid red;
+        }
+        .col-md-8{
+            border: 1px solid red;
+        } */
+        table, th, td{
+            text-align: center;
+        }
+        th{
+            background-color: red !important;
+            border: 2px solid blue !important;
+        }
+        tr, td{
+            vertical-align: middle !important;
+        }
+        div{
+            text-align: center;
+        }
+        #wrapper{
+            margin: 0 auto;
+            width: 1000px;
+        }
+        .container{
+            margin: 0 auto;
+            width: 1000pxs;
+        }
+        ul{
+            list-style: none;
+        }
